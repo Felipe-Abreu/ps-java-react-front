@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![wakatime](https://wakatime.com/badge/github/Felipe-Abreu/ps-java-react-front.svg)](https://wakatime.com/badge/github/Felipe-Abreu/ps-java-react-front)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
